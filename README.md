@@ -2,8 +2,7 @@
 
 一个现代化的 WPF 图形界面工具，让 Pandoc 文档转换更简单、更强大！
 
-![Pandoc Better Use 界面](<img width="1178" height="766" alt="UI-WPF_Modern-blue" src="https://github.com/user-attachments/assets/586cb3f0-2175-402b-8e01-8e3091acfcf0" />
-)
+![Pandoc Better Use 界面](https://img.shields.io/badge/UI-WPF_Modern-blue)
 ![.NET 8](https://img.shields.io/badge/.NET-8-purple)
 ![Pandoc 支持](https://img.shields.io/badge/Pandoc-所有格式-green)
 
